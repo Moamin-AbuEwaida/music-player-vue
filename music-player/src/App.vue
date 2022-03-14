@@ -159,7 +159,7 @@ button:hover {
   margin: 0px 15px;
   border-radius: 8px;
   color: #fff;
-  background-color: #cc2e5d;
+  background-color: #3885ce;
 }
 .next,
 .prev {
@@ -169,7 +169,7 @@ button:hover {
   margin: 0px 15px;
   border-radius: 6px;
   color: #fff;
-  background-color: #ff5858;
+  background-color: #5de6cf;
 }
 .playlist {
   padding: 0px 30px;
@@ -194,6 +194,6 @@ button:hover {
 }
 .playlist .song.playing {
   color: #fff;
-  background-image: linear-gradient(to right, #cc2e5d, #ff5858);
+  background-image: linear-gradient(to right, #3885ce, #5de6cf);
 }
 </style>
